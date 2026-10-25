@@ -6,7 +6,7 @@ A small web app for a day-ahead power desk. For every delivery day in the pilot 
 
 Data: Elexon BMRS only. `FUELHH` (actual wind, fuelType = WIND) and `WINDFOR` (wind forecasts, every `publishTime`).
 
-**Live app:** _paste your Vercel link here_
+**Live app:** https://wfk-q7x2m.vercel.app/
 **Video walkthrough:** _paste your unlisted YouTube link here_
 
 > **AI tools:** this project was built with the help of an AI assistant (Claude, by Anthropic) for code generation and design.
